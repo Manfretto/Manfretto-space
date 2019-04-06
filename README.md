@@ -4,7 +4,7 @@
 
 BartNL
 
-<img align="right" width="250" src="avatar.png">
+<img align="right" width="250" src="http://i63.tinypic.com/25rntkw.png">
 
 ## Bio
 
