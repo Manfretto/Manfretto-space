@@ -8,12 +8,10 @@ BartNL
 
 ## Bio
 
-
+Investor / Entrepreneur / Visionaire 
 
 ## Identities
 * [github](https://github.com/github_id)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
