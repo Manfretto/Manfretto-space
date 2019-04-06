@@ -2,13 +2,13 @@
 
 # Manfretto
 
-optional tag-line
+BartNL
 
 <img align="right" width="250" src="avatar.png">
 
 ## Bio
 
-BartNL
+
 
 ## Identities
 * [github](https://github.com/github_id)
