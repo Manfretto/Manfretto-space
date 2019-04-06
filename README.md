@@ -1,6 +1,6 @@
 (To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
-# Manfretto
+# Bart (@Manfretto)
 
 BartNL
 
